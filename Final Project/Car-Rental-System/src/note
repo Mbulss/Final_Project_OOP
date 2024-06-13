@@ -1,0 +1,15 @@
+OOP USED IN MY CODE
+Encapsulation: Through private attributes and public methods in the Car class.
+
+Inheritance: Through the SUV, LuxuryCar, and ElectricCar classes which inherit from the Car class.
+
+Polymorphism: Through the use of overridden methods in derived classes and
+the ability to use derived class objects as parent class objects.
+
+Abstraction: Through the use of the Vehicle interface which defines contracts for the Car class and its derivatives.
+
+UML
+1 (ONE TO ONE) relationship indicates that one instance of a class is associated with exactly one
+
+1...* (ONE TO MANY) relationship indicates that one instance of a class is  associted with
+one or more instance of another class
